@@ -1,0 +1,44 @@
+h1 {
+  text-align: center;
+  margin-top: 40px;
+}
+
+body {
+  font-family: "DM Sans", sans-serif;
+  background-color: #272932; 
+  color: #c7d1da;
+}
+
+#div1 {
+  text-align: center;
+  margin-top: 20px;
+}
+
+p{
+  text-align: center;
+}
+
+.container{
+	padding: 20px;
+	border-radius: 20px;
+	margin: 40px auto;
+    width: 500px;
+    box-shadow: 0 0 25px rgba(173, 185, 195, 0.2);
+}
+
+form {
+    line-height: 2;
+}
+
+/* forgot how to align the textboxes :< */
+
+
+button {
+    align-items: center;
+}
+#footer {
+  padding: 50px;
+  text-align: center;
+  color: #adb9c3;
+  background-color: #272932;
+}
